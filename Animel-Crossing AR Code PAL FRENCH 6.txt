@@ -1,0 +1,199 @@
+Replace Nookington's Music With Nookway Music [Ralf]
+J07M-043Z-J60BJ
+E42C-QDYJ-87YUG
+EBPE-8QKF-Y1CMU
+
+Nook's Cranny Background Music Modifier [Ralf]
+04CAD398 386000xx - Default: 4F
+04CAD3D4 386000yy - Default: 2C
+
+Nook 'n' Go Background Music Modifier [Ralf]
+04CAD3A8 386000xx - Default: 50
+04CAD3E4 386000yy - Default: 25
+
+Nookway Background Music Modifier [Ralf]
+04CAD3B8 386000xx - Default: 51
+04CAD3F4 386000yy - Default: 26
+
+Nookington's Background Music Modifier [Ralf]
+04CAD3C0 386000xx - Default: 52
+04CAD3FC 386000yy - Default: 27
+
+xx = Song 1 ID (00 .. FF)
+yy = Song 2 ID
+
+Have Always Nookway Shop (Temporary) [Ralf]
+K29R-B5HU-BW5W7
+CTB5-2QWC-U1W1Q
+6JUT-T03J-XJJBV
+2M16-KACZ-TFZ1E
+FMUJ-MKXF-KPQZ8
+GH2Y-ZB6Z-Q5CME
+HV0T-M9CA-826CB
+UDNU-J3FH-NGE5Z
+D5UK-78TE-3PWA1
+TW95-AFAN-TQTXN
+E9FZ-A3QA-YCERP
+
+Have Always Nookway Shop (Permanently) [Ralf]
+XAW1-HAZ9-3XG6Q
+CTB5-2QWC-U1W1Q
+JCM2-TU78-K5A1P
+EMA3-CAFU-8EK5W
+E2PU-TATW-33ZUT
+0NE2-NRF9-VJRGT
+HB91-3CYT-6U30M
+8NG3-W3T9-41ZJ9
+QBJ1-KCRP-3K4B2
+CYQE-YYNW-HVZTN
+E9FZ-A3QA-YCERP
+
+Tom Nook's Shop Modifier v1 (Temporary) [Ralf]
+8C006A90 88FF0330
+04003F20 57C4043E
+04003F24 28045803
+04003F28 40810010
+04003F2C 28045808
+04003F30 40800008
+04003F34 388058xx
+04003F38 48EF7E78
+04EFBDAC 4B108174
+00000000 40000000
+
+xx = Shop ID
+
+Tom Nook's Shop Modifier v2 (Permanently) [Ralf]
+8C006A90 88FF0330
+04003F20 28045803
+04003F24 40810010
+04003F28 28045808
+04003F2C 40800008
+04003F30 388058xx
+04003F34 7C9E2378
+04003F38 48EF7DE8
+04EFBD1C 4B108204
+00000000 40000000
+
+xx = Shop ID
+
+04 - Nook's Cranny
+05 - Nook 'n' Go
+06 - Nookway
+07 - Nookington's
+
+Tom Nook's Shop Modifier v3 (Temporary, Press Z + DPad Up/Down/Left/Right) [Ralf]
+GHTG-RZ0W-JV4M3
+CTB5-2QWC-U1W1Q
+6JUT-T03J-XJJBV
+2M16-KACZ-TFZ1E
+JNN9-WN0D-4W2WB
+GH2Y-ZB6Z-Q5CME
+0QTD-G1MA-YFXAA
+1202-715R-WK9XG
+5QD7-BWKQ-EXCAR
+MHYV-YJPD-PEZ25
+A563-CPT6-Z030D
+XHQN-92HN-BWA1A
+JMFJ-KVXW-W1U07
+TW95-AFAN-TQTXN
+E9FZ-A3QA-YCERP
+3J2G-Z8CH-ZQCXG
+8R3D-27RJ-YUYTF
+HGRD-836Z-4RK11
+N5ZQ-48E8-VHV8T
+4AZA-RF4C-V8P1M
+E4H8-JHYA-16NJB
+YD74-H9WU-BDMAB
+6RJR-2CPX-DANHJ
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Tom Nook's Shop Modifier v4 (Permanently, Press Z + DPad Up/Down/Left/Right) [Ralf]
+ZTKF-ZNPV-M3H3M
+CTB5-2QWC-U1W1Q
+JCM2-TU78-K5A1P
+QJHP-9QHA-UB0CG
+E2PU-TATW-33ZUT
+22DV-20AK-P1FVP
+XTNU-ETZK-3XK4K
+8UMX-2Y6N-Q1WQJ
+VD1G-X8GG-4Z6PP
+EPD4-PD1D-45NEB
+A0RW-Q84D-TXTY6
+CM56-JVVY-C2HC1
+NHUF-3157-23F8Y
+CYQE-YYNW-HVZTN
+E9FZ-A3QA-YCERP
+3J2G-Z8CH-ZQCXG
+8R3D-27RJ-YUYTF
+HGRD-836Z-4RK11
+N5ZQ-48E8-VHV8T
+4AZA-RF4C-V8P1M
+E4H8-JHYA-16NJB
+YD74-H9WU-BDMAB
+6RJR-2CPX-DANHJ
+
+Z + DPad Up    = Nookington's
+Z + DPad Down  = Nook's Cranny
+Z + DPad Left  = Nook 'n' Go
+Z + DPad Right = Nookway
+
+Upper Left Player House Roof Color Modifier [Ralf]
+01105194 000000xx
+
+xx = Color ID
+
+Upper Right Player House Roof Color Modifier [Ralf]
+01107844 000000xx
+
+xx = Color ID
+
+Lower Left Player House Roof Color Modifier [Ralf]
+01109EF4 000000xx
+
+xx = Color ID
+
+Lower Right Player House Roof Color Modifier [Ralf]
+0110C5A4 000000xx
+
+xx = Color ID
+
+00 - Red
+01 - Orange
+02 - Yellow
+03 - Pale Green
+04 - Green
+05 - Sky Blue
+06 - Blue
+07 - Purple
+08 - Pink
+09 - Black
+0A - White
+0B - Brown
+
+Train Station Type Modifier [Ralf]
+0111C398 000000xx
+
+xx = Train Station Type
+
+00 - Wooden Train Station (Green)
+01 - Wooden Train Station (Red)
+02 - Wooden Train Station (Purple)
+03 - Wooden Train Station (Blue)
+04 - Wooden Train Station (Orange)
+
+05 - Metal Train Station (Red)
+06 - Metal Train Station (Orange)
+07 - Metal Train Station (Green)
+08 - Metal Train Station (Blue)
+09 - Metal Train Station (Purple)
+
+0A - Brick Train Station (Green)
+0B - Brick Train Station (Blue)
+0C - Brick Train Station (Green Alt.)
+0D - Brick Train Station (Purple)
+0E - Brick Train Station (Red)
+

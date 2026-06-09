@@ -1,0 +1,152 @@
+
+16:9 Aspect Ratio v2 (Widescreen) [Ralf]
+AGZG-TWPM-42A74
+NM7F-Q45K-FNQUQ
+YJGY-0KZP-RRGW0
+TPR1-4D69-MNW2V
+VFAF-M727-GHXFX
+C4Z7-98MH-ETDZ9
+3A0V-GQE4-CV33P
+UC0D-T8FP-G21Z2
+RK1B-09TM-E5VQU
+E9FZ-A3QA-YCERP
+
+Incl. Screen Fader Fix
+
+Insects: Purely Random Encounters [Ralf]
+8WP5-8R1Z-7M230
+03WX-GD67-Z906U
+NX7D-5CH4-HDXX2
+3TQU-ZCB2-YBGDH
+N0UW-MD6J-RXM6R
+GA81-ATUN-U5N6H
+TB5Q-2W17-JZB9M
+7T9A-H6MD-FXAH7
+90D0-R154-896VR
+4NJH-5YY4-A594M
+7C7Y-3GZ6-QNJ40
+E9FZ-A3QA-YCERP
+
+Fishes: Purely Random Encounters [Ralf]
+HA59-6XY5-V205D
+03WX-GD67-Z906U
+KXKA-R8TD-024AZ
+6EWW-DHT9-FZKH1
+KUZU-1U7R-HJ2RA
+HT43-WNE4-MX3C0
+FPZT-KH36-9X9XA
+DX9Z-YXPR-0X0FN
+0ADV-ANHB-HMRX2
+EDC1-WJU7-43V8Y
+1XF4-4HPJ-ZH8QJ
+E9FZ-A3QA-YCERP
+
+
+Insect Encounter Modifier [Ralf]
+04ED3944 390000xx
+
+xx = Insect ID
+
+
+Insect IDs
+
+00 - Common Butterfly
+01 - Yellow Butterfly
+02 - Tiger Butterfly
+03 - Purple Butterfly
+04 - Robust Cicada
+05 - Walker Cicada
+06 - Evening Cicada
+07 - Brown Cicada
+08 - Bee
+09 - Common Dragonfly
+0A - Red Dragonfly
+0B - Darner Dragonfly
+0C - Banded Dragonfly
+0D - Long Locust
+0E - Migratory Locust
+0F - Cricket
+
+10 - Grasshopper
+11 - Bell Cricket
+12 - Pine Cricket
+13 - Drone Beetle
+14 - Dynastid Beetle
+15 - Flat Stag Beetle
+16 - Jewel Beetle
+17 - Longhorn Beetle
+18 - Ladybug
+19 - Spotted Ladybug
+1A - Mantis
+1B - Firefly
+1C - Cockroach
+1D - Saw Stag Beetle
+1E - Mountain Beetle
+1F - Giant Beetle
+
+20 - Snail
+21 - Mole Cricket
+22 - Pond Skater
+23 - Bagworm
+24 - Pill Bug
+25 - Spider
+26 - Ant
+27 - Mosquito
+28 - Spirit
+
+
+Fish Encounter Modifier [Ralf]
+04EE0B88 394000xx
+
+xx = Fish ID
+
+
+Fish IDs
+
+00 - Crucian Carp
+01 - Brook Trout
+02 - Carp
+03 - Koi
+04 - Catfish
+05 - Small Bass
+06 - Bass
+07 - Large Bass
+08 - Bluegill
+09 - Giant Catfish
+0A - Giant Snakehead
+0B - Barbel Steed
+0C - Dace
+0D - Pale Chub
+0E - Bitterling
+0F - Loach
+
+10 - Pond Smelt
+11 - Sweetfish
+12 - Cherry Salmon
+13 - Large Char
+14 - Rainbow Trout
+15 - Stringfish
+16 - Salmon
+17 - Goldfish
+18 - Piranha
+19 - Arowana
+1A - Eel
+1B - Freshwater Goby
+1C - Angelfish
+1D - Guppy
+1E - Popeyed Goldfish
+1F - Coelacanth
+
+20 - Crawfish
+21 - Frog
+22 - Killifish
+23 - Jellyfish
+24 - Sea Bass
+25 - Red Snapper
+26 - Barred Knifejaw
+27 - Arapaima
+28 - None
+29 - Empty Can
+2A - Old Shoe
+2B - Tire
+2C - Salmon
